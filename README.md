@@ -1,7 +1,8 @@
 ## Test accounts 
 
 - Super Admin: email: superadmin@example.com | mk: trinhminhnhat3107
-- Buyer: email: trinhminhnhatyn@gmail.com | mk: trinhminhnhat3107
+- Buyer1: email: trinhminhnhatyn@gmail.com | mk: trinhminhnhat3107
+- Buyer2: email: testuser123@gmail.com | mk: trinhminhnhat3107
 - Seller: email: maytinhhanoi@gmail.com | mk: trinhminhnhat3107
 
 # ThuongMaiDienTu (TMDT)
