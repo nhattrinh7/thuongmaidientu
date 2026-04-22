@@ -1,3 +1,9 @@
+## Test accounts 
+
+- Super Admin: email: superadmin@example.com | mk: trinhminhnhat3107
+- Buyer: email: trinhminhnhatyn@gmail.com | mk: trinhminhnhat3107
+- Seller: email: maytinhhanoi@gmail.com | mk: trinhminhnhat3107
+
 # ThuongMaiDienTu (TMDT)
 
 ![TMDT Microservices Overview](./docs/architecture-overview.png)
@@ -20,5 +26,3 @@
 - [Catalog-service-TMDT](https://github.com/nhattrinh7/Catalog-service-TMDT)
 - [Saga-orchestrator-TMDT](https://github.com/nhattrinh7/Saga-orchestrator-TMDT)
 - [Inventory-service-TMDT](https://github.com/nhattrinh7/Inventory-service-TMDT)
-
-
