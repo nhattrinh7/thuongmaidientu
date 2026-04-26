@@ -13,6 +13,10 @@
 
 - [Frontend-TMDT](https://github.com/nhattrinh7/Frontend-TMDT)
 
+## Tài liệu Swagger API
+
+- [Trang tổng hợp API của các NestJS services](https://api.szone.top/docs)
+
 ## Backend
 
 - [Auth-service-TMDT](https://github.com/nhattrinh7/Auth-service-TMDT)
